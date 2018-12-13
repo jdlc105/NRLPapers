@@ -370,6 +370,10 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **A Unified Framework for Community Detection and Network Representation Learning.**
 *Cunchao Tu, Xiangkai Zeng, Hao Wang, Zhengyan Zhang, Zhiyuan Liu, Maosong Sun, Bo Zhang, Leyu Lin.* TKDE 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8403293/)
 
+1. **Attributed Social Network Embedding.** 	
+*Lizi Liao, Xiangnan He, Hanwang Zhang, Tat-Seng Chua.* TKDE 2018. [paper](https://ieeexplore.ieee.org/document/8326519)	
+
+
 ### Preprints
 
 This section contains promising recent preprints.
