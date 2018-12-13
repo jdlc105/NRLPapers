@@ -390,3 +390,8 @@ This section contains promising recent preprints.
 3. **MILE: A Multi-Level Framework for Scalable Graph Embedding.**
 *Jiongqian Liang, Saket Gurukar, Srinivasan Parthasarathy.* [paper](https://arxiv.org/pdf/1802.09612.pdf) 
 
+4. **Neural Embeddings of Graphs in Hyperbolic Space.**
+*Chamberlain, B. P., Clough, J. R., & Deisenroth, M. P..* [paper](https://arxiv.org/pdf/1705.10359.pdf) 
+
+
+
