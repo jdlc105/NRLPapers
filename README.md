@@ -29,7 +29,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 *Peter W. Battaglia, Jessica B. Hamrick, Victor Bapst, Alvaro Sanchez-Gonzalez, Vinicius Zambaldi, Mateusz Malinowski, Andrea Tacchetti, David Raposo, Adam Santoro, Ryan Faulkner, Caglar Gulcehre, Francis Song, Andrew Ballard, Justin Gilmer, George Dahl, Ashish Vaswani, Kelsey Allen, Charles Nash, Victoria Langston, Chris Dyer, Nicolas Heess, Daan Wierstra, Pushmeet Kohli, Matt Botvinick, Oriol Vinyals, Yujia Li, Razvan Pascanu.* 2018. [paper](https://arxiv.org/pdf/1806.01261.pdf)
 
 1. **A Survey on Network Embedding**
-*Peng C , Xiao W , Jian P , et al..* 2018. [paper](https://ieeexplore.ieee.org/document/8392745)
+*Peng Cui, Xiao Wang, Jian Pei, Wenwu Zhu* 2018. [paper](https://ieeexplore.ieee.org/document/8392745)
 
 ### Journal and Conference papers:
 
