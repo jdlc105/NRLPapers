@@ -367,6 +367,9 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **Deep Inductive Network Representation Learning.** 	
 *Ryan A. Rossi, Rong Zhou, Nesreen K. Ahmed.* WWW 2018. [paper](http://ryanrossi.com/pubs/rossi-et-al-WWW18-BigNet.pdf)	 
 
+1. **Machine learning meets complex networks via coalescent embedding in the hyperbolic space.** 	
+*Muscoloni, A. , Thomas, J. M. , Ciucci, S. , Bianconi, G. , & Cannistraci, C. V. .* Nature Communications, 2017. [paper](https://www.nature.com/articles/s41467-017-01825-5)
+
 1. **A Unified Framework for Community Detection and Network Representation Learning.**
 *Cunchao Tu, Xiangkai Zeng, Hao Wang, Zhengyan Zhang, Zhiyuan Liu, Maosong Sun, Bo Zhang, Leyu Lin.* TKDE 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8403293/)
 
